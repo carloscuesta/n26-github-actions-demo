@@ -1,0 +1,20 @@
+{
+  "name": "n26-github-actions-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloscuesta/n26-github-actions-demo.git"
+  },
+  "author": "Carlos Cuesta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carloscuesta/n26-github-actions-demo/issues"
+  },
+  "homepage": "https://github.com/carloscuesta/n26-github-actions-demo#readme",
+  "devDependencies": {
+    "@octokit/rest": "^18.12.0"
+  }
+}
