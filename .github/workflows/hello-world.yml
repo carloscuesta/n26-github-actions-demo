@@ -18,3 +18,5 @@ jobs:
         run: npm install
       - name: Execute hello-world script
         run: npm run hello-world
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
